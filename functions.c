@@ -81,7 +81,6 @@ int print_string(va_list types, char buffer[],
  * @width: width.
  * @precision: precision specification
  * @size: size
- 
  * Return: number of chars to be printed
  */
 int print_percent(va_list types, char buffer[],
