@@ -5,7 +5,8 @@ This project is a simple implementation of printf function found in the c progra
 ## Description
 
 The _printf() function produces output according to one of the formats given below. 
-Upon successful return, these functions return the number of characters printed (excluding the null byte used to end output to strings).
+Upon successful return, the function returns the number of characters printed (excluding the null byte used to end output to strings).
+
 
 The available conversion specifiers are:
 + %c: prints single character.
