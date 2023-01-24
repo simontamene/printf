@@ -6,7 +6,7 @@
  * @ind: index.
  * @buffer: buffer array to handle print.
  * @flags: calculates the active active flags
- * @width: get width.
+ * @width: get width
  * @precision: precision specification
  * @size: size specifier
  * Return: 1 or 2;
