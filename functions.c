@@ -79,8 +79,9 @@ int print_string(va_list types, char buffer[],
  * @buffer: buffer array to handle print
  * @flags:  calculates active flags
  * @width: width.
- * @precision: Pprecision specification
- * @size: size 
+ * @precision: precision specification
+ * @size: size
+ 
  * Return: number of chars to be printed
  */
 int print_percent(va_list types, char buffer[],
